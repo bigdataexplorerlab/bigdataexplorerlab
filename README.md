@@ -19,6 +19,6 @@
 🔹 **[Optimización de Consultas SQL](https://github.com/tuusuario/proyecto3)** (Mejoras en bases de datos SQL Server)  
 
 📫 **Conéctate conmigo:**  
-🔗 [LinkedIn](https://www.linkedin.com/in/johmalca) | 📧 [Correo](bigdataexplorerlab@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/johmalca) | 📧 [Correo](mailto:bigdataexplorerlab@gmail.com)  
 
 🚀 **¡Explora mis proyectos y colaboremos!**
